@@ -3,7 +3,7 @@ Automated forex trading bot MQL4
 
 ![Immagine](https://github.com/LegionAtol/Trading-Forex-Bot/assets/118752873/28f9834b-3bb5-4238-a065-acd9eb4c732f)
 
-The figure above represents the BOT that is operating in backtest.
+The figure above represents the BOT that is operating in backtest on MetaTrader4 platform.
 The three “bands” are visible, each containing three lines (lowerHline, midHLine, upperHline)
 
 Operation of the BOT:
